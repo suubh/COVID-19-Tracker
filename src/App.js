@@ -70,8 +70,8 @@ useEffect(()=>{
     <div className='app_left'>
 
     <div className='app_header'>
-    <h2>COVID-19  Webapp By <a href="https://manikant.herokuapp.com/">Manikant</a></h2>
-    <h2><a href="https://github.com/devil-cyber/COVID-19-Tracker">Github</a></h2>
+    <h2>By <a href="https://manikant.herokuapp.com/">Manikant</a> and <a href="https://www.linkedin.com/in/shubham-singh-356ba5168">Shubham</a></h2>
+    <h2>COVID-19 Tracker</h2>
       <FormControl className='app_dropdown'>
       <Select 
       variant='outlined'
